@@ -126,7 +126,7 @@ d3.json(earthquakesURL, function(earthquakeData) {
   });
 
     // Add legend
-    var legend = L.control({position: "bottomright"});
+    var legend = L.control({position: "bottomleft"});
     legend.onAdd = function() {
       var div = L.DomUtil.create("div", "info legend"),
       depth = [0, 10, 30, 50, 70, 90];
