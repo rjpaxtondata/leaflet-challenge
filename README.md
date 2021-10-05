@@ -1,5 +1,8 @@
 # Visualizing Data with Leaflet <br>
 
+![image](https://user-images.githubusercontent.com/82011523/135947517-b96c722b-686f-491c-a0a1-d1bba18bcd80.png)
+
+
 ## Purpose <br>
 The purpose of this assignment was to visualize earthquake data from the United States Geological Society using interactive maps.  As a bonus, a map of the tectonic plates were also displayed. 
 
