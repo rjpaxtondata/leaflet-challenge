@@ -4,7 +4,7 @@
 The purpose of this assignment was to visualize earthquake data from the United States Geological Society using interactive maps.  As a bonus, a map of the tectonic plates were also displayed. 
 
 
-###Steps 
+## Steps 
 
 1.  Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize.
 
